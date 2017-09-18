@@ -1,0 +1,30 @@
+header{
+    background-color:darkblue;
+    color:#E8FDFF;
+    font-family: 'Dosis', sans-serif;
+    
+}
+body{
+    background-color:turquoise;
+}
+header:hover{
+    background-color: mediumblue
+}
+main{
+    background-color:white;
+    padding:16px;
+    font-family: 'Lobster', cursive
+}
+.post{
+    margin-bottom: 48px;
+}
+.post .user-info img {
+    border-radius:50%;
+}
+.photo{
+    opacity: .75
+}
+.photo:hover{
+    opacity: 1.0
+}
+
