@@ -8,6 +8,6 @@ def number(number)
     end
     
 get '/' do
-    number = 3
+    number = ()
 end    
         
